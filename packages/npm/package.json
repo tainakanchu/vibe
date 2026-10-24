@@ -28,7 +28,7 @@
     "prepublishOnly": "pnpm run build"
   },
   "dependencies": {
-    "zod": "^3.23.0"
+    "zod": "^4.6.6"
   },
   "optionalDependencies": {
     "@kexi/vibe-native": "workspace:^"
